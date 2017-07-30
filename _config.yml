@@ -3,8 +3,8 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Sachin
-subtitle:
+title: Sachin.song
+subtitle: 孤舟蓑笠翁 独钓寒江雪
 description:
 author: Sachin.song
 language: zh-Hans
@@ -16,7 +16,13 @@ url: https://sachintop.github.io/
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
+avatar: /images/avatar.jpg
 
+menu:
+   home: /
+   categories: /categories
+   archives: /archives
+   tags: /tags
 # Directory
 source_dir: source
 public_dir: public
@@ -55,7 +61,17 @@ index_generator:
 # Category & Tag
 default_category: uncategorized
 category_map:
+	编程: programming
+	生活: life
+	其他: other
 tag_map:
+#category_map:
+##    PHP: php
+##	MySql: mysql
+##	Linux: linux
+##	生活: life
+##	随笔: essay
+#tag_map:
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
