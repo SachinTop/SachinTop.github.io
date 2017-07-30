@@ -78,6 +78,6 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/SachinTop.github.io/SachinTop.git
+  repo: https://github.com/SachinTop/SachinTop.github.io
   branch: [master]
 
