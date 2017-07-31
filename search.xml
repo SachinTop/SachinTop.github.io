@@ -1,11 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[搭建GitHub+Hexo 博客成功]]></title>
-    <url>%2F2017%2F07%2F30%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[成功搭建好了博客，之后勤奋一点，逐渐完善，然后也用来和大家一起记录、分享心得、体会和技术。]]></content>
-      <tags>
-        <tag>其他</tag>
-      </tags>
-  </entry>
+<search> 
+  
+    
+    <entry>
+      <title><![CDATA[Hexo添加搜索功能]]></title>
+      <url>/2017/07/31/Hexo%E6%B7%BB%E5%8A%A0%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD/</url>
+      <content type="html"><![CDATA[<h6 id="安装插件"><a href="#安装插件" class="headerlink" title="安装插件"></a>安装插件</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ npm install hexo-generator-search --save</div></pre></td></tr></table></figure>
+<h6 id="配置主题配置文件-config-yml-Path-themes-next-config-yml"><a href="#配置主题配置文件-config-yml-Path-themes-next-config-yml" class="headerlink" title="配置主题配置文件 _config.yml. (Path: /themes/next/_config.yml)"></a>配置主题配置文件 <code>_config.yml.</code> (Path: /themes/next/_config.yml)</h6><figure class="highlight plain"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div></pre></td><td class="code"><pre><div class="line">search:</div><div class="line">  path: search.xml</div><div class="line">  field: post</div></pre></td></tr></table></figure>]]></content>
+      
+        
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+        </tags>
+        
+    </entry>
+    
+    <entry>
+      <title><![CDATA[搭建GitHub+Hexo 博客成功]]></title>
+      <url>/2017/07/30/hello-world/</url>
+      <content type="html"><![CDATA[<p>成功搭建好了博客，之后勤奋一点，逐渐完善，然后也用来和大家一起记录、分享心得、体会和技术。</p>
+]]></content>
+      
+        
+        <tags>
+            
+            <tag> 其他 </tag>
+            
+        </tags>
+        
+    </entry>
+    
+  
+  
 </search>
