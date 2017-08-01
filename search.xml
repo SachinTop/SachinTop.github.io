@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[Hexo添加搜索功能]]></title>
     <url>%2F2017%2F07%2F31%2FHexo%E6%B7%BB%E5%8A%A0%E6%90%9C%E7%B4%A2%E5%8A%9F%E8%83%BD%2F</url>
-    <content type="text"><![CDATA[一、添加搜索功能安装插件1$ npm install hexo-generator-search --save 配置主题配置文件 _config.yml. (Path: /themes/next/_config.yml)123search: path: search.xml field: post 二、添加404腾讯公益页面]]></content>
+    <content type="text"><![CDATA[一、添加搜索功能安装插件1$ npm install hexo-generator-search --save 配置主题配置文件 _config.yml. (Path: /themes/next/_config.yml)123search: path: search.xml field: post]]></content>
       <tags>
         <tag>Hexo</tag>
       </tags>
